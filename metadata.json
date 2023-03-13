@@ -1,0 +1,17 @@
+{
+    "name": "ShalomToken",
+    "symbol": "MYT",
+    "description": "A decentralized token for use on the Solana blockchain learning web3",
+    "image": "https://cdn-icons-png.flaticon.com/512/1534/1534067.png",
+    "external_url": "https://mytoken.com",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Blockchain"
+        },
+        {
+            "trait_type": "Issuer",
+            "value": "ShalomToken Inc."
+        }
+    ]
+}
